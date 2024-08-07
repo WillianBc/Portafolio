@@ -132,4 +132,8 @@ background-color: var(--color-cuarto);
         .presentación__contenido {
             width: auto;
         }
+        .header__menu {  
+            gap: 10%
+        
+        }
 }
